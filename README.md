@@ -48,10 +48,10 @@ Berikut adalah hasil perbandingan model dalam bentuk grafik:
 
 
 - **MobileNetV2** unggul dalam kecepatan prediksi pada perangkat dengan sumber daya terbatas.
+![image](https://github.com/user-attachments/assets/89e7d854-5f40-412e-aebd-6463e1c596a6)
   
 ![image](https://github.com/user-attachments/assets/b3ab1d18-282f-4c89-870d-c726d283bb05)
 
-![image](https://github.com/user-attachments/assets/89e7d854-5f40-412e-aebd-6463e1c596a6)
 
 
   
